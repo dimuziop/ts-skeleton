@@ -1,0 +1,27 @@
+{
+  "name": "ts-boilerplate",
+  "version": "1.0.0",
+  "description": "just a simple boilerplate to start ts projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Patricio Di Muzio",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimuziop/ts-skeleton.git"
+  },
+  "keywords": [
+    "typescript",
+    "skeleton"
+  ],
+  "bugs": {
+    "url": "https://github.com/dimuziop/ts-skeleton/issues"
+  },
+  "homepage": "https://github.com/dimuziop/ts-skeleton#readme"
+}
